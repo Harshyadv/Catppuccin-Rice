@@ -37,6 +37,9 @@ Perfect for lazy perfectionists™.
 
 ---
 
-> ⚠️ Yeah... it’s a tarball drop.  
-> First time sharing a rice publicly, and I’m short on time (currently job hunting).  
-> I promise I’ll turn this into modular dotfiles as soon as life stops speedrunning me.
+> ⚠️ Yeah… it started as a tarball drop.  
+> First time sharing a rice publicly, and I’ve been short on time (currently job hunting 😅).  
+> The repo's now updated — everything is unpacked and browsable, and I'm working on modularizing the dotfiles for better structure and reuse.  
+>
+> 🔽 Still keeping an updated tarball available for those who just want everything at once.  
+> Appreciate your patience while I clean things up!
